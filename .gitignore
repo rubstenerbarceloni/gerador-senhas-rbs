@@ -1,0 +1,43 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Arquivos compilados e instaladores
+build/
+dist/
+*.exe
+*.msi
+*.apk
+*.aab
+*.ipa
+*.spec
+
+# Arquivos compactados
+*.zip
+*.rar
+*.7z
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações e segredos
+.env
+*.pem
+*.key
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+
+Gerador_RBS_main_corrigido/
+Gerador_Senhas_RBS_v3/

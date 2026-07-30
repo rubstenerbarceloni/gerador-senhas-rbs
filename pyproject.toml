@@ -1,0 +1,13 @@
+[project]
+name = "gerador-senhas-rbs"
+version = "3.0.0"
+description = "Gerador de senhas determinístico sem armazenamento."
+requires-python = ">=3.10"
+dependencies = [
+    "flet>=0.28,<1.0",
+]
+
+[tool.flet]
+product = "Gerador de Senhas - RBS"
+company = "RBS"
+copyright = "Copyright (c) RBS"
