@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gerador de Senhas - RBS 3.0
 
 Aplicativo multiplataforma em Python e Flet. Nenhuma senha, palavra mestra
@@ -94,3 +95,7 @@ O modo inteligente utiliza HMAC-SHA256 da biblioteca padrão do Python.
 Ele oferece separação por serviço e reprodução determinística. Ainda assim,
 uma palavra mestra fraca ou previsível reduz a segurança. Prefira uma frase
 mestra longa, exclusiva e difícil de adivinhar.
+=======
+# gerador-senhas-rbs
+gerador-senhas-rbs
+>>>>>>> e61156e22e70d240829c89d9ddb774c58ce8008b
